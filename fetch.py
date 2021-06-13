@@ -36,12 +36,26 @@ if not download:
   sys.exit(-1)
 
 dlc = ir_datasets.util.Download([ir_datasets.util.RequestsDownload(download['url'])], expected_md5=download['expected_md5'], stream=True)
+size = 0
 with ir_datasets.util.finialized_file(download['expected_md5'], 'wb') as fout:
   with dlc.stream() as stream:
     inp = stream.read(io.DEFAULT_BUFFER_SIZE)
     while len(inp) > 0:
       fout.write(inp)
+      size += len(inp)
       inp = stream.read(io.DEFAULT_BUFFER_SIZE)
 
+def to_file_size(s):
+  unit = 'B'
+  units = ['KB', 'MB', 'GB']
+  while (units and s > 1000):
+    s = s / 1000
+    unit = units.pop(0)
+  if (unit == 'B'):
+    s = f'{s:.0f}'
+  else:
+    s = f'{s:.1f}'
+  return f'{s} {unit}'
+
 with open('README.md', 'at') as f:
-  f.write(f' - `{download["expected_md5"]}`: {download["url"]} @ {datetime.datetime.now().isoformat()}\n')
+  f.write('| [`{expected_md5}`](https://mirror.ir-datasets.com/{expected_md5}) | {url} | {size} | {date} |\n'.format(**download, date=datetime.datetime.now().isoformat(), size=to_file_size(size)))
