@@ -1,6 +1,6 @@
 # irds-mirror
 
-A mirror for small files in the [ir_datases](https://ir-datasets.com/) package.
+A mirror for small files in the [ir_datasets](https://ir-datasets.com/) package.
 
 # Manifest:
 
