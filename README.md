@@ -4,8 +4,8 @@ A mirror for small files in the [ir_datasets](https://ir-datasets.com/) package.
 
 # Manifest:
 
-| File | Source | Size | Feth Date/Time |
-| ---- | ------ | ---- | -------------- |
+| File | Source | Size | Fetch Date/Time |
+| ---- | ------ | ---- | --------------- |
 | [`c2e722e6bdfd00f088c6f6517db564ce`](https://mirror.ir-datasets.com/c2e722e6bdfd00f088c6f6517db564ce) | https://trec.nist.gov/data/robust/05/05.50.topics.txt | 25.1 KB | 2021-06-10T10:05:12.817669 |
 | [`9186021c74090464c50f577d4826e2e2`](https://mirror.ir-datasets.com/9186021c74090464c50f577d4826e2e2) | https://trec.nist.gov/data/robust/05/TREC2005.qrels.txt | 945.0 KB | 2021-06-10T10:06:38.770876 |
 | [`3c35f9e62abf64c873250ac8022d5a51`](https://mirror.ir-datasets.com/3c35f9e62abf64c873250ac8022d5a51) | https://trec.nist.gov/data/precmed/qrels-final-trials.txt | 243.7 KB | 2021-06-10T10:06:40.789725 |
