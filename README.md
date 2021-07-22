@@ -105,3 +105,4 @@ A mirror for small files in the [ir_datasets](https://ir-datasets.com/) package.
 | [`7b839a1a94e349d3facf28012542cc1d`](https://mirror.ir-datasets.com/7b839a1a94e349d3facf28012542cc1d) | https://trec.nist.gov/data/news/2019/newsir19-qrels-background.txt | 669.6 KB | 2021-06-10T10:10:28.463072 |
 | [`2674538a07fb7ac29200cbc4c4a05404`](https://mirror.ir-datasets.com/2674538a07fb7ac29200cbc4c4a05404) | https://trec.nist.gov/data/news/2020/newsir20-topics.txt | 13.2 KB | 2021-06-10T10:10:30.064765 |
 | [`7c31f731775bdd4148d349df1a9e43fc`](https://mirror.ir-datasets.com/7c31f731775bdd4148d349df1a9e43fc) | https://trec.nist.gov/data/news/2020/qrels.background | 729.3 KB | 2021-06-10T10:10:32.236535 |
+| [`2e153903c375596914ee9ffdbcefd6a5`](https://mirror.ir-datasets.com/2e153903c375596914ee9ffdbcefd6a5) | https://drive.google.com/uc?export=download&id=1jGyjB7qOt45jakb32ZtroSkxs5sq5gvU | 6.1 KB | 2021-07-22T14:37:06.166724 |
