@@ -2,6 +2,12 @@
 
 A mirror for small files in the [ir_datasets](https://ir-datasets.com/) package.
 
+# Miscellaneous:
+
+ - [`abf1fd024b6aca203364d2138c241a6d`](https://mirror.ir-datasets.com/abf1fd024b6aca203364d2138c241a6d): a prior version of the `msmarco-passage-v2/train` qrels file, fetched at 2021-07-16T00:06.
+   This file was [updated to remove duplicate entries by the task organizers on July 21, 2021](https://github.com/microsoft/msmarco/commit/41b3a684ed8ebd4e753250c3687547a77c62e7dd), but the original
+   file may still be needed by some for result repeatability.
+
 # Manifest:
 
 | File | Source | Size | Fetch Date/Time |
