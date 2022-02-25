@@ -121,3 +121,6 @@ A mirror for small files in the [ir_datasets](https://ir-datasets.com/) package.
 | [`daaafb700eed76f61a6e9e4b0dcc40c8`](https://mirror.ir-datasets.com/daaafb700eed76f61a6e9e4b0dcc40c8) | https://trec.nist.gov/data/topics_eng/topics.401-450.gz | 6.9 KB | 2022-01-27T15:42:46.561776 |
 | [`fdee3f7e37e173fd6fcdc00fbe1fc671`](https://mirror.ir-datasets.com/fdee3f7e37e173fd6fcdc00fbe1fc671) | https://trec.nist.gov/data/topics_eng/topics.351-400.gz | 7.4 KB | 2022-02-01T12:07:11.873448 |
 | [`43def30d4f4b33a830ae67e3dce19023`](https://mirror.ir-datasets.com/43def30d4f4b33a830ae67e3dce19023) | https://trec.nist.gov/data/qrels_eng/qrels.trec7.adhoc.parts1-5.tar.gz | 307.1 KB | 2022-02-01T12:07:12.840139 |
+| [`0335d95c58d5f5fd9bc730bccb60ca90`](https://mirror.ir-datasets.com/0335d95c58d5f5fd9bc730bccb60ca90) | https://trec.nist.gov/data/trials/qrels2021.txt | 676.5 KB | 2022-02-25T22:59:10.723535 |
+| [`c5b76ec95b589732edc9040302e22a2b`](https://mirror.ir-datasets.com/c5b76ec95b589732edc9040302e22a2b) | https://trec.nist.gov/data/deep/2021.qrels.pass.final.txt | 433.9 KB | 2022-02-25T23:00:29.386033 |
+| [`3b266fdaf27f3775e04028765a4839d3`](https://mirror.ir-datasets.com/3b266fdaf27f3775e04028765a4839d3) | https://trec.nist.gov/data/deep/2021.qrels.docs.final.txt | 478.3 KB | 2022-02-25T23:01:59.600418 |
