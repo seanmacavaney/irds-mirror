@@ -124,3 +124,9 @@ A mirror for small files in the [ir_datasets](https://ir-datasets.com/) package.
 | [`0335d95c58d5f5fd9bc730bccb60ca90`](https://mirror.ir-datasets.com/0335d95c58d5f5fd9bc730bccb60ca90) | https://trec.nist.gov/data/trials/qrels2021.txt | 676.5 KB | 2022-02-25T22:59:10.723535 |
 | [`c5b76ec95b589732edc9040302e22a2b`](https://mirror.ir-datasets.com/c5b76ec95b589732edc9040302e22a2b) | https://trec.nist.gov/data/deep/2021.qrels.pass.final.txt | 433.9 KB | 2022-02-25T23:00:29.386033 |
 | [`3b266fdaf27f3775e04028765a4839d3`](https://mirror.ir-datasets.com/3b266fdaf27f3775e04028765a4839d3) | https://trec.nist.gov/data/deep/2021.qrels.docs.final.txt | 478.3 KB | 2022-02-25T23:01:59.600418 |
+| [`0a3fb04bfdaa1551d8960d862e925c9e`](https://mirror.ir-datasets.com/0a3fb04bfdaa1551d8960d862e925c9e) | https://trec.nist.gov/data/web/09/qrels.diversity.gz | 166.5 KB | 2022-06-13T11:36:53.498673 |
+| [`0a78c8bf7a809039a1fc9013a4bfe4eb`](https://mirror.ir-datasets.com/0a78c8bf7a809039a1fc9013a4bfe4eb) | https://trec.nist.gov/data/web/10/10.diversity-qrels.final | 297.2 KB | 2022-06-13T11:36:54.555800 |
+| [`b88c1d42afbbbc5a4a776dd3f0b905c2`](https://mirror.ir-datasets.com/b88c1d42afbbbc5a4a776dd3f0b905c2) | https://trec.nist.gov/data/web/11/qrels.diversity | 2.2 MB | 2022-06-13T11:36:55.844825 |
+| [`bbfde42fc4bc502b19aec5dcc6922faa`](https://mirror.ir-datasets.com/bbfde42fc4bc502b19aec5dcc6922faa) | https://trec.nist.gov/data/web/12/qrels.diversity | 2.1 MB | 2022-06-13T11:36:57.134549 |
+| [`741e76258543ad47ae75030363be13a9`](https://mirror.ir-datasets.com/741e76258543ad47ae75030363be13a9) | https://trec.nist.gov/data/web/2013/qrels.all.txt | 1.6 MB | 2022-06-13T11:36:58.405725 |
+| [`085256d18544cd3e34b9fa9cc29ae513`](https://mirror.ir-datasets.com/085256d18544cd3e34b9fa9cc29ae513) | https://trec.nist.gov/data/web/2014/qrels.all.txt | 1.5 MB | 2022-06-13T11:36:59.680318 |
