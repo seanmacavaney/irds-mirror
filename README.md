@@ -130,3 +130,5 @@ A mirror for small files in the [ir_datasets](https://ir-datasets.com/) package.
 | [`bbfde42fc4bc502b19aec5dcc6922faa`](https://mirror.ir-datasets.com/bbfde42fc4bc502b19aec5dcc6922faa) | https://trec.nist.gov/data/web/12/qrels.diversity | 2.1 MB | 2022-06-13T11:36:57.134549 |
 | [`741e76258543ad47ae75030363be13a9`](https://mirror.ir-datasets.com/741e76258543ad47ae75030363be13a9) | https://trec.nist.gov/data/web/2013/qrels.all.txt | 1.6 MB | 2022-06-13T11:36:58.405725 |
 | [`085256d18544cd3e34b9fa9cc29ae513`](https://mirror.ir-datasets.com/085256d18544cd3e34b9fa9cc29ae513) | https://trec.nist.gov/data/web/2014/qrels.all.txt | 1.5 MB | 2022-06-13T11:36:59.680318 |
+| [`cca2e4db9d842e6262500532809bd571`](https://mirror.ir-datasets.com/cca2e4db9d842e6262500532809bd571) | https://trec.nist.gov/data/deep/2022.qrels.docs.inferred.txt | 13.8 MB | 2023-06-15T08:31:27.043992 |
+| [`b36484d6cfd039664a570a4bf04f0eeb`](https://mirror.ir-datasets.com/b36484d6cfd039664a570a4bf04f0eeb) | https://trec.nist.gov/data/deep/2022.qrels.pass.withDupes.txt | 15.8 MB | 2023-06-15T08:32:59.877411 |
