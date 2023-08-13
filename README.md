@@ -132,3 +132,4 @@ A mirror for small files in the [ir_datasets](https://ir-datasets.com/) package.
 | [`085256d18544cd3e34b9fa9cc29ae513`](https://mirror.ir-datasets.com/085256d18544cd3e34b9fa9cc29ae513) | https://trec.nist.gov/data/web/2014/qrels.all.txt | 1.5 MB | 2022-06-13T11:36:59.680318 |
 | [`cca2e4db9d842e6262500532809bd571`](https://mirror.ir-datasets.com/cca2e4db9d842e6262500532809bd571) | https://trec.nist.gov/data/deep/2022.qrels.docs.inferred.txt | 13.8 MB | 2023-06-15T08:31:27.043992 |
 | [`b36484d6cfd039664a570a4bf04f0eeb`](https://mirror.ir-datasets.com/b36484d6cfd039664a570a4bf04f0eeb) | https://trec.nist.gov/data/deep/2022.qrels.pass.withDupes.txt | 15.8 MB | 2023-06-15T08:32:59.877411 |
+| [`50068634036c00adb54e8be9314bf37c`](https://mirror.ir-datasets.com/50068634036c00adb54e8be9314bf37c) | https://trec.nist.gov/data/fair/2021-eval-topics-with-qrels.json.gz | 120.0 KB | 2023-08-13T12:37:48.907705 |
