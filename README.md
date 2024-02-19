@@ -137,3 +137,5 @@ A mirror for small files in the [ir_datasets](https://ir-datasets.com/) package.
 | [`3dbb41b02bfbd719d8b55632d9b15b83`](https://mirror.ir-datasets.com/3dbb41b02bfbd719d8b55632d9b15b83) | https://trec.nist.gov/data/neuclir/2023/neuclir-2023-topics.0605.jsonl | 683.8 KB | 2024-02-19T22:44:38.265900 |
 | [`cea4ff3d9eba612c7119e6490217d4e1`](https://mirror.ir-datasets.com/cea4ff3d9eba612c7119e6490217d4e1) | https://trec.nist.gov/data/neuclir/2023/neuclir-2023-qrels.final.tar.gz | 6.0 MB | 2024-02-19T22:44:42.336382 |
 | [`8dc1aecf13fbe358eea74ade7496b085`](https://mirror.ir-datasets.com/8dc1aecf13fbe358eea74ade7496b085) | https://trec.nist.gov/data/neuclir/2022/2022-qrels.all | 4.8 MB | 2024-02-19T22:44:47.424430 |
+| [`0dd5ba173c695362a8705056edca481b`](https://mirror.ir-datasets.com/0dd5ba173c695362a8705056edca481b) | https://trec.nist.gov/data/neuclir/2023/neuclir-2023-technical_topics.0719.jsonl | 86.5 KB | 2024-02-19T22:59:35.822412 |
+| [`cea4ff3d9eba612c7119e6490217d4e1`](https://mirror.ir-datasets.com/cea4ff3d9eba612c7119e6490217d4e1) | https://trec.nist.gov/data/neuclir/2023/neuclir-2023-qrels.final.tar.gz | 6.0 MB | 2024-02-19T22:59:43.873976 |
